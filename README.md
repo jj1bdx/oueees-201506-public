@@ -1,12 +1,13 @@
 # 電気工学特別講義 2015年度案
 
-27-NOV-2014 力武 健次
+* 27-NOV-2014 力武 健次
+* Last revision: 28-MAY-2015
 
 ## メインテーマ
 
 * Sustainability
 
-## サブテーマ1
+## サブテーマ1: 情報ネットワークへの社会的要請とその実現技術
 
 Requirements to the network
 
@@ -14,7 +15,7 @@ Requirements to the network
 * Security
 * Availability
 
-## サブテーマ2
+## サブテーマ2: 大規模情報システムへの社会的要請とその実現技術
 
 Requirements to the computer systems
 
@@ -22,7 +23,7 @@ Requirements to the computer systems
 * Redundancy
 * Concurency
 
-## サブテーマ3
+## サブテーマ3: 情報社会と現実の社会や環境との調和
 
 Social and environmental harmonization
 
