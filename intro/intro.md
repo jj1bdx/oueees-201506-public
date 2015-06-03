@@ -59,7 +59,7 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# Yes, I'm just an old man
+# I'm just an old man
 
 ---
 
@@ -109,5 +109,20 @@ Toyonaka, Osaka, Japan
 
 # *Can we?*
 
+---
+
+# WARNING
+
+---
+
+# My talks are only for your food of thought
+
+---
+
+# It's *your* job to think
+
+---
+
+# OK let's get down to business!
 
 
