@@ -10,29 +10,29 @@
 * 講義内容はGitHubで公開
 * 試験はレポートで
 
-## メインテーマ
+## Main theme
 
-* Sustainability
+Sustainability
 
-## 9-JUN-2015: 情報ネットワークへの社会的要請とその実現技術
+## 9-JUN-2015: Introduction / Sustainable computer systems and networks
 
-Requirements to the network
+（情報ネットワークへの社会的要請とその実現技術）
 
 * Mobility
-* Security
-* Availability
+* Physical constraints
+* Routing and addressing
 
-## 16-JUN-2015: 大規模情報システムへの社会的要請とその実現技術
+## 16-JUN-2015: Operating and developing large-scale information systems
 
-Requirements to the computer systems
+（大規模情報システムへの社会的要請とその実現技術）
 
 * Resilience (fail-fast)
 * Redundancy
 * Concurency
 
-## 23-JUN-2015:  情報社会と現実の社会や環境との調和
+## 23-JUN-2015: Environmentally-sustainable computing
 
-Social and environmental harmonization
+（情報社会と現実の社会や環境との調和）
 
 * Economy (feasibility)
 * Energy (efficiency)
