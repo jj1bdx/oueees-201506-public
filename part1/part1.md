@@ -10,7 +10,7 @@ slidenumbers: true
 # Kenji Rikitake
 
 9-JUN-2015
-Faculty of Engineering Science
+School of Engineering Science
 Osaka University
 Toyonaka, Osaka, Japan
 @jj1bdx
@@ -70,13 +70,13 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# Smaller electronic circuits
+# Smaller electronic packages
 
-* Hand mounting: TO-92, TO-220, 
+* Hand mounting: TO-92, TO-220
 * Hand mounting ICs: SIP, DIP
 * Surface mounting: SOIC, BGA, PGA
-* *Higher density*: the *same or even more energy per system*
-* More *heat*
+* *Higher density*: the *same or even more energy per system*, ironically
+* More *heat* for each module
 
 ---
 
@@ -166,9 +166,91 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# Question: can we make all networks wireless?
+# Speed of light: 299 792 458<br>[m/s]
 
 ---
+
+# Refractive indices
+
+* Air: 1.000293 (0C, 1atm, 598nm) [^5]
+* Water: 1.333 (20C, 598nm)
+* Optic fiber (pure silica): 1.444 at 1500nm [^6]
+* Signal speed in optic fiber: ~200000 [km/s]
+* Tokyo-Osaka (500km) Optic Fiber Round Trip Time (RTT) = 5 milliseconds 
+
+[^5]: http://en.wikipedia.org/wiki/Refractive_index
+
+[^6]: http://en.wikipedia.org/wiki/Optical_fiber
+
+---
+
+# How latency affects the error handling
+
+* RTT of Osaka - San Francisco, CA, USA (9000km) in optic fiber = 18ms
+* 18ms in 10Gbps = 180Mbits = 22.5Mbytes
+* An error between KIX-SFO may cause retransmission of 22.5Mbytes (or even more)!
+
+---
+
+# Routing: where and how to deliver the information
+
+---
+
+# Different types of routes and network topologies
+
+![inline](topology.jpg)
+
+---
+
+# Routing issues
+
+* The optimal route always changes as the availability of forwarding nodes changes
+* Recalculation of routes: O(N^2) for N nodes
+* Each and every forwarding nodes or *routers* have to compute all the necessary routes simultaneously
+* Routes always increase (exponentially)
+
+---
+
+## IPv4 Internet: ~560k routes
+
+![inline](bgp-active-20150607.png)
+
+---
+
+# Another problem:<br>We're using up the IPv4 address space
+
+---
+
+# IPv4 address space: only 32 bits = ~4 billion
+
+---
+
+# No new space available since 2011
+
+---
+
+# IPv4 address space issues
+
+* Internet service providers (ISPs) are now selling and buying the address spaces
+* The unassigned address spaces are getting smaller every day
+* Emerging economies and companies have difficulties on obtaining globally-reachable IPv4 addresses
+
+---
+
+# Transition to IPv6 still fails to happen
+
+* IPv6 allows 128bit address space, and is similar to IPv4, but a *completely different* protocol: new ISP investment needed
+* BGP prefixes: only 22705 (IPv4: 557135)
+* Still not available in most regions of the world without extra payment to ISPs; reachability is severely limited
+
+---
+
+# Lots of efforts are needed to keep Internet sustainable
+
+---
+
+# Question: What should be done?
+
 
 
 
