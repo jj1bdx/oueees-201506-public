@@ -18,7 +18,7 @@ slidenumbers: true
 ## 力武 健次
 
 9-JUN-2015
-Faculty of Engineering Science
+School of Engineering Science
 Osaka University
 Toyonaka, Osaka, Japan
 @jj1bdx
