@@ -28,15 +28,16 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# Computer becomes more mobile
+# Trends in mobile computer devices
 
 * Physically small
 * Less physical constraints
 * Less power
+* Also applicable to *all* computers (from the supercomputers to cloud computing clusters)
 
 ---
 
-# For better mobility
+# Pursuing better mobility
 
 * Smaller parts
 * Higher available energy density
@@ -46,7 +47,7 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# Computer needs *millions* of devices
+# Computer needs *millions* of discrete devices
 
 * DRAM: 1 transistor = 1 bit
 * 4 Gigabytes = 32G transistors (or more)
@@ -60,11 +61,11 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# Smaller devices
+# Smaller discrete devices
 
 * Vacuum tubes: ~W/tube
-* Discrete Transistors: ~mW/chip
-* Integrated circuits (ICs): nW/chip
+* Discrete Transistors: ~mW/transistor
+* Integrated circuits (ICs): nW/transistor, millions of transistors/chip
 * [Atom transistors: pW/chip or less](https://www.int.kit.edu/2582.php)
 * Using less energy per device
 
@@ -221,7 +222,7 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# IPv4 address space: only 32 bits = ~4 billion
+# IPv4 address space: only 32 bits = ~4 billions
 
 ---
 
