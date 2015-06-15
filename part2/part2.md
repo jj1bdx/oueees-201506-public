@@ -172,3 +172,24 @@ The slogans: [^5]
 * Resilience by failing fast: early detection of failures and invocation of the recovery procedures
 
 ---
+
+Consistent hashing of Basho Technologies' Riak database [^6]
+
+![inline](riak-ring.jpg)
+
+[^6]: <http://docs.basho.com/riak/latest/theory/concepts/Clusters/> (Note: Rikitake was a Basho Technologies employee during February to September 2013.)
+
+---
+
+# Fault tolerance of Riak
+
+* Multiple copies for each data bucket
+* Data evenly distributed to each cluster member node, more resilient to failures
+* Even if a node fails, the other nodes respond with the valid data
+* Recovery replication will happen after the node recovery
+* All *automated*
+
+---
+
+
+
