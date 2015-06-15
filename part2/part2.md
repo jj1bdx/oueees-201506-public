@@ -1,9 +1,11 @@
 footer: Kenji Rikitake / oueees 201506 part 2 16-JUN-2015
 slidenumbers: true
 
-## oueees-201506 Part 2: operation and developement of large-scale information systems
+<!--- これはEmacsでUnicodeを自動検知させるためのkludgeです -->
 
-<!-- Use Deckset 1.4, Next theme, 4:3 aspect ratio -->
+# oueees-201506 Part 2: large-scale information systems
+
+<!--- Use Deckset 1.4, Next theme, 4:3 aspect ratio -->
 
 ---
 
@@ -265,3 +267,5 @@ Recovery from net split is complex
 * How much is the cost of synchronization?
 * Why do we need concurrent systems? Stability? Performance?
 * What have we traded in for obtaining the *convenient cloud computing systems*? Can we take them back?
+
+<!--- -*- coding: utf-8; -*- -->
