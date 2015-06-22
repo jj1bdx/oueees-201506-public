@@ -93,6 +93,10 @@ Toyonaka, Osaka, Japan
 
 ---
 
+# Question: are natural resources *infinite*?
+
+---
+
 # Our lives depend on electricity
 
 ---
@@ -109,7 +113,7 @@ Toyonaka, Osaka, Japan
 # Problems on energy consumption
 
 * Quantity: *exponentially increasing*
-* Efficiency: improvement stagnated
+* Efficiency: improvement stagnated (e.g., electricity delivery loss)
 * Demand and desire: more and more people want to *modernize* their lives
 * Many stakeholders of conflicting interests
 
@@ -123,6 +127,91 @@ Toyonaka, Osaka, Japan
 
 ---
 
+## An alarming prediction: Internet may use up all electricity supply capability by 2025
 
+---
+
+![inline](ceet-forecast.jpg)
+
+---
+
+# Data centers in the USA
+
+* 12M servers in 3M data centers [^1]
+* 2013: 91TWh / 34 x 0.5GW power plants
+* 2020: 140TWh / 50 x 0.5GW power plants
+* 2020: 150Mt CO2 pollution
+
+[^1]: [Data Center Efficienct Assessment, Natural Resource Defense Council, August 2014](http://www.nrdc.org/energy/data-center-efficiency-assessment.asp)
+
+---
+
+# Data center metrics
+
+* Server utilization rate
+* Power Usage Effectiveness (PUE)
+
+---
+
+# Server utilization rate
+
+* [processing load] / [maximum server capacity]
+* 10% utilization rate server can spend 30% to 60% of power
+
+---
+
+# Power Usage Effectiveness (PUE)
+
+* Measuring *cooling* efficiency
+* [total power] / [server-consumed power]
+* should be <2.0, closer to 1.0 is better
+
+---
+# USA data centers in 2011
+
+* Only 5% of DC-spent power is low PUE
+* 40% of servers in small-to-medium DCs consume 49% of total electricity
+   * PUE ~= 2.0, utilization: low as 10%
+   * older servers (3 years old)
+
+---
+# DC operating issues
+
+* Too much over-provisioning (~ +50%)
+* Low virtualization daployment rate (~30%)
+* Too many *unused* servers (20~30%)
+* Power management not well deployed
+
+---
+
+# Small and inefficient data centers are the majority
+
+![inline](data-center-efficiency-piegraph.jpg)
+
+---
+
+# The numbers
+
+![inline](data-center-efficiency-numbers.jpg)
+
+---
+
+# Issues of Japanese DCs
+
+* Natural disasters (earthquakes)
+
+* Fluctuating *industrial* power supply: not something solvable by "saving energy" in the *residential* sector
+
+* The price of electricity is *very high*
+
+* Japan is at an *edge* of world Internet trans-ocean links and have little direct oversea links
+
+---
+
+# The future is grim
+
+---
+
+# Can we sustain the level of the modern computing society?
 
 <!--- -*- coding: utf-8; -*- -->
