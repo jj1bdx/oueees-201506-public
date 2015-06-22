@@ -214,4 +214,50 @@ Toyonaka, Osaka, Japan
 
 # Can we sustain the level of the modern computing society?
 
+---
+
+# In other words: don't take what we've got for granted
+
+---
+
+# THANKS
+
+---
+
+# Appendix (1/2):<br> on submitting answers to the questions
+
+---
+
+# FOLLOW THE INSTRUCTIONS
+
+---
+
+# When *your* opinion is wanted, that doesn't have to be the same as mine
+
+---
+
+# Remember:<br> no one including me has any right answers
+
+---
+
+# Appendix (2/2): on cloud computing security
+
+---
+
+# Aspects of security
+
+* Availability
+* Privacy
+* Social Order
+* Trust
+* Usability
+
+---
+
+# You can't take them all at once
+
+---
+
+# What is important for *you*?
+
 <!--- -*- coding: utf-8; -*- -->
